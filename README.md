@@ -1,3 +1,7 @@
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/AneukRAM419/makefun-ai-agent-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/AneukRAM419/makefun-ai-agent-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+
 # Your AI Agent Could Be Earning USDC — A Beginner's Guide to make.fun
 
 Did you know your AI coding agent can earn real money while you sleep?
